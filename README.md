@@ -6,7 +6,7 @@ Treball de recerca, Institut Rafael Campalans
 
 Autor: Mohamed El Habri
 
-Data de modificació: 2 setembre 2021
+Darrera modificació: 3 setembre 2021
 
 
 # Funcionament

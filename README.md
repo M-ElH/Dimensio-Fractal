@@ -1,7 +1,7 @@
 # Dimensio-Fractal
 Conté un programa i el seu codi font per calcular la dimensió fractal d'un cos amb la seva imatge. 
 
-Treball de recerca, Institut Rafael Campalans
+Treball de Recerca, Institut Rafael Campalans
 
 
 Autor: Mohamed El Habri

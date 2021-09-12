@@ -11,7 +11,7 @@ Darrera modificació: 12 setembre 2021
 Aquest programa permet aproximar la dimensió fractal d'una figura si es disposa d'una imatge. Per a facilitar l'ús, la imatge hauria de tenir el mínim de colors possible, i el color del contorn de la figura ha de ser fàcilment distingible i no estar repetit. S'haurà de seleccionar manualment els colors del contorn de la seva figura en diverses mides. Per a cada mida, s'obrirà la imatge corresponent com a guia dels colors, es pot tancar o minimitzar per a tornar a la selecció de colors.
 
 
-# Rèquisits
+# Requisits
 Aquest programa només funciona amb sistemes operatius Windows.
 
 

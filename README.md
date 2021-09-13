@@ -3,7 +3,7 @@ Conté un programa i el seu codi font per calcular la dimensió fractal d'un cos
 
 Treball de Recerca, Institut Rafael Campalans. Autor: Mohamed El Habri
 
-Darrera modificació: 12 setembre 2021
+Darrera modificació: 13 setembre 2021
 
 
 # Funcionament

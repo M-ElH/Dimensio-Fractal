@@ -15,10 +15,7 @@ Aquest programa només funciona amb sistemes operatius Windows.
 
 
 # Descàrrega
-En la branca _Executable_ hi ha l'arxiu per a executar aquest programa.
 
-En la branca _Codi Font_ hi ha els arxius Python que contenen el codi escrit.
-
-Es pot canviar de branca a sobre dels arxius, a l'esquerra.
-
-Per a descarregar l'executable o el codi font, s'ha d'anar a la branca que es vol, i, a sobre dels arxius a la dreta, a l'apartat _Code_, es pot triar _Download Zip_, per descarregar els arxius comprimits.
+En la pàgina principal, pot llegir el codi escrit.
+Pot fer la descàrrega directe des dels següents enllaços: [codi font](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Codi.Font.zip) i [executable](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Dimensio.Fractal.exe)
+També pot descarregar-ho des de l'apartat "releases" (a dalt a la dreta).

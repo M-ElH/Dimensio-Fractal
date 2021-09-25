@@ -19,9 +19,6 @@ Per a fer-ho, es generaran imatges de diferents mides a partir de la imatge que 
 del color dels píxels de cadascuna. S'obrirà la imatge de cada mida, la pot tancar o minimitzar per a tornar
 al programa i introduir els colors que formen part del contorn.
 
-Si interromp el programa enmig del procés, haurà d'eliminar manualment la carpeta generada abans de fer un
-altre anàlisi.
-
 ***El resultat que s'obtindrà serà només una aproximació més o menys precisa***
 """)
 

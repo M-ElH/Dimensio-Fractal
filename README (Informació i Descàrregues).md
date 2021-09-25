@@ -3,7 +3,7 @@ Conté un programa i el seu codi font per calcular la dimensió fractal d'un cos
 
 Treball de Recerca, Institut Rafael Campalans. Autor: Mohamed El Habri
 
-Darrera modificació: 24 setembre 2021
+Darrera modificació: 25 setembre 2021
 
 
 # Funcionament
@@ -17,5 +17,11 @@ Aquest programa només funciona amb sistemes operatius Windows.
 # Descàrrega
 
 En la pàgina principal, pot llegir el codi escrit.
-Pot fer la descàrrega directe des dels següents enllaços: [codi font](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Codi.Font.zip) i [executable](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Dimensio.Fractal.exe)
+Pot fer la descàrrega directe des dels següents enllaços: 
+
+[codi font](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Codi.Font.zip)
+
+[executable](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Dimensio.Fractal.exe)
+
+
 També pot descarregar-ho des de l'apartat "releases" (a dalt a la dreta).

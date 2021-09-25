@@ -17,11 +17,11 @@ Aquest programa només funciona amb sistemes operatius Windows.
 # Descàrrega
 
 En la pàgina principal, pot llegir el codi escrit.
-Pot fer la descàrrega directe des dels següents enllaços: 
-
-[codi font](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Codi.Font.zip)
+Pot fer la descàrrega directa del programa o del seu codi des dels següents enllaços: 
 
 [executable](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Dimensio.Fractal.exe)
+
+[codi font](https://github.com/M-ElH/Dimensio-Fractal/releases/download/v.1/Codi.Font.zip)
 
 
 També pot descarregar-ho des de l'apartat "releases" (a dalt a la dreta).
